@@ -1,0 +1,4 @@
+https://wit.ai/docs/recipes#extract-and-store-information-from-user-messages
+
+
+https://gist.github.com/julionc/7476620

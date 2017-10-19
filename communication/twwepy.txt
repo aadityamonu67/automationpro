@@ -1,0 +1,5 @@
+https://marcobonzanini.com/2015/03/02/mining-twitter-data-with-python-part-1/
+
+http://codehandbook.org/how-to-read-email-from-gmail-using-python/
+
+https://stackoverflow.com/questions/13151106/instagram-and-oauth
